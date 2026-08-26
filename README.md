@@ -76,12 +76,14 @@ We will list the translator's name here.
 
 ## Contributors
 
-These are the contributors up to Ver 13.77. Thank you!!
+These are the contributors up to Ver 13.82. Thank you!!
 
 (Alphabetical order)
 
 - en-US
   - SHINTA
+- ko-KR
+  - NNC-Yuzuka
 - zh-CN
   - FMPeach
   - luotaii
