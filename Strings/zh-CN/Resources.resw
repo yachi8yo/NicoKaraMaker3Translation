@@ -376,12 +376,6 @@
   <data name="Fatal" xml:space="preserve">
     <value>严重错误</value>
   </data>
-  <data name="File_HelpWithoutExtension" xml:space="preserve">
-    <value>CFileMerge2_en-us</value>
-  </data>
-  <data name="File_HistoryWithoutExtension" xml:space="preserve">
-    <value>CFileMerge2_History_ja-jp</value>
-  </data>
   <data name="FontFaceInfoModel_CharSize_Undo" xml:space="preserve">
     <value>字体大小</value>
   </data>
